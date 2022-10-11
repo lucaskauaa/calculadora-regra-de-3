@@ -15,6 +15,7 @@
 body {
     color: #ffffff;
     background: #375F53 url('../images/fundo.jpg') center center no-repeat fixed;
+    background-size: cover;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     height: 100vh;
     padding: 50px 5px;
