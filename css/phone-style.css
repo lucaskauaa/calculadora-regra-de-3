@@ -3,7 +3,8 @@
 @media only screen and (max-width: 425px) {
     body {
         background-image: url(../images/fundo-phone.jpg);
-        padding: 40px 8px;
+        background-position: center top;
+        padding: 50px 8px;
 
     }
 
@@ -13,7 +14,7 @@
 
     #main {
         padding: 30px 15px;
-        margin-top: 45px;
+        margin-top: 50px;
     }
 
     form {
