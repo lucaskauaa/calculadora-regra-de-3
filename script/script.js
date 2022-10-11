@@ -8,6 +8,8 @@ const inverse = document.getElementById('inverse');
 const elements = [number01, number02, number03, direct, inverse];
 for(let i of elements) {i.addEventListener('input', calculator);}
 
+number01.focus();
+
 function calculator () {
     let result;
     if (number01.value !== '' && number02.value !== '' && number03.value !== '') {
