@@ -2,11 +2,13 @@
 
 @media only screen and (max-width: 425px) {
     body {
+        background-image: url(../images/fundo-phone.jpg);
         padding: 35px 8px;
+
     }
 
     h1 {
-        font-size: 1.5em;
+        font-size: 1.7em;
     }
 
     #main {
@@ -15,10 +17,15 @@
     }
 
     form {
-        font-size: 18px;
+        font-size: 20px;
+    }
+
+    .radio {
+        width: 15px;
+        height: 15px;
     }
 
     footer, footer a {
-        font-size: 18px;
+        font-size: 20px;
     }
 }
