@@ -1,3 +1,3 @@
-# calculadora-regra-de-3
+# Calculadora de Regra de 3 Simples
 
-<a href="https://lucaskauaa.github.io/calculadora-regra-de-3/html/index.html" target="_self" rel="external">Calculadora regra de 3 simples.</a>
+🔗 <a href="https://lucaskauaa.github.io/calculadora-regra-de-3/html/index.html" target="_self" rel="external">Acessar o Site</a>
